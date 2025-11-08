@@ -82,15 +82,3 @@ transition: 0.3s;
     background-color: rgb(0, 0, 0,0.4);
 }
 
-label{
-    font-size: 40px;
-    color: rgb(255, 255, 255);
-    font-family:'OXANIUM' ;
-}
-
-form{
-    position:absolute;
-    top:520px;
-    left:90px;
-    
-}
